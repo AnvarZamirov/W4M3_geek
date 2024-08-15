@@ -50,9 +50,9 @@ public class RVFragment extends Fragment implements com.example.w4m3.OnItemClick
         } else if (menuItem.equals("Hamburger")) {
             pizzaModel.add(new com.example.w4m3.PizzaModel("Classic burger","https://chefrestoran.ru/wp-content/uploads/2018/10/604655519.jpg", "Good Burger", "20"));
             pizzaModel.add(new com.example.w4m3.PizzaModel("Cheeseburger","https://chefrestoran.ru/wp-content/uploads/2018/10/1053796058.jpg", "The name of the dish comes from the English “cheese”. A cheeseburger has the same composition as a hamburger.", "25"));
-            pizzaModel.add(new com.example.w4m3.PizzaModel("Black burger","https://chefrestoran.ru/wp-content/uploads/2018/10/333977423.jpg", "Good Burger", "17"));
-            pizzaModel.add(new com.example.w4m3.PizzaModel("Chickenburger","https://chefrestoran.ru/wp-content/uploads/2018/10/1029888517.jpg", "Good Burger", "15"));
-            pizzaModel.add(new com.example.w4m3.PizzaModel("Fishburger","https://chefrestoran.ru/wp-content/uploads/2018/10/549443638.jpg", "Good Burger", "21"));
+            pizzaModel.add(new com.example.w4m3.PizzaModel("Black burger","https://chefrestoran.ru/wp-content/uploads/2018/10/333977423.jpg", "Bad Burger", "17"));
+            pizzaModel.add(new com.example.w4m3.PizzaModel("Chickenburger","https://chefrestoran.ru/wp-content/uploads/2018/10/1029888517.jpg", "Good Burger with USA", "15"));
+            pizzaModel.add(new com.example.w4m3.PizzaModel("Fishburger","https://chefrestoran.ru/wp-content/uploads/2018/10/549443638.jpg", "Big Burger with USA", "21"));
             pizzaModel.add(new com.example.w4m3.PizzaModel("Crab burger","https://avatars.dzeninfra.ru/get-zen_doc/4776500/pub_603fc364afc00e4c65766e70_603fc43e0ea3ae5d4c43e734/scale_1200", "Bun with sesame seeds and tender crab meat.", "20"));
             pizzaModel.add(new com.example.w4m3.PizzaModel("Caesar burger","https://avatars.dzeninfra.ru/get-zen_doc/3987860/pub_603fc364afc00e4c65766e70_603fc4ecafc00e4c6579bc8e/scale_1200", "The bun is stuffed with iceberg lettuce leaves and pieces of fried chicken fillet.", "20"));
             pizzaModel.add(new com.example.w4m3.PizzaModel("Base Burger","https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M6HASPARCZHYNN4XTUYT7H6PTE.jpg", "Good Burger", "20"));
